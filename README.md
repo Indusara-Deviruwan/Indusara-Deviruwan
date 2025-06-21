@@ -48,9 +48,11 @@
 
 ## 📊 GitHub Stats
 
+<!-- Trophy Showcase -->Add commentMore actions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
-</p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
+  </a>
 
 <p align="center">
   <!-- Overall stats -->
@@ -66,11 +68,6 @@
 
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
-</p>
-
 
 <p align="center">
   <i>Thanks for visiting! Have a great day 🌟</i>
