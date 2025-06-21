@@ -59,7 +59,7 @@
 
 ## 📊 Trophies
 
-<!-- Trophy Showcase -->Add commentMore actions
+<!-- Trophy Showcase -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
