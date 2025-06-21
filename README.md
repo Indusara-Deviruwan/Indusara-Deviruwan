@@ -8,6 +8,9 @@
 </p>
 
 
+---
+
+
 ## 🔭 Currently Working On
 - [Netflix-Clone using HTML, CSS & JavaScript](https://github.com/Indusara-Deviruwan/Netflix-Clone.git)
 
@@ -44,7 +47,7 @@
 
 <p align="center">
   <!-- Overall stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indusara-deviruwan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indusara-deviruwan&show_icons=true&theme=radical" alt="GitHub Stats" /> <br><br>
   <!-- Languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
