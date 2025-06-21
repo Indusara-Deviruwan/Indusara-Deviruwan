@@ -22,7 +22,6 @@
 ## 💬 Ask Me About
 **React.js** 🎯
 
----
 
 <h3 align="left">💻 Languages & Tools:</h3>
 
@@ -51,7 +50,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ## 📊 Trophies
 
@@ -61,7 +59,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
   </a>
 
----
 
 ## Streak Stats
 
@@ -72,6 +69,7 @@
 
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
 </p>
