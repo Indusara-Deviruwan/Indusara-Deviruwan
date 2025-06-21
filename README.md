@@ -60,14 +60,16 @@
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indusara-deviruwan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indusara-deviruwan&theme=radical" alt="Streak Stats" />
 </p>
+
 
 ---
 
 <p align="center">
-  <img src="https://github.com/indusara-deviruwan/indusara-deviruwan/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
 </p>
+
 
 <p align="center">
   <i>Thanks for visiting! Have a great day 🌟</i>
