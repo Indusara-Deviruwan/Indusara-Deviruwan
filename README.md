@@ -7,10 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=indusara-deviruwan&label=Profile%20views&color=blueviolet&style=flat" alt="indusara-deviruwan" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
-</p>
-
 ---
 
 ## 🔭 Currently Working On
@@ -46,15 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Trophy Showcase -->Add commentMore actions
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
-  </a>
-
----
+##  Overall Stats
 
 <p align="center">
   <!-- Overall stats -->
@@ -65,6 +53,18 @@
 
 ---
 
+## 📊 Trophies
+
+<!-- Trophy Showcase -->Add commentMore actions
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
+  </a>
+
+---
+
+## Streak Stats
+
 <!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indusara-deviruwan&theme=radical" alt="Streak Stats" />
@@ -72,6 +72,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
+</p>
 
 <p align="center">
   <i>Thanks for visiting! Have a great day 🌟</i>
