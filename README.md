@@ -54,12 +54,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
   </a>
 
+---
+
 <p align="center">
   <!-- Overall stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indusara-deviruwan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <!-- Languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
 
 <!-- Streak Stats -->
 <p align="center">
