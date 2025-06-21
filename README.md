@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=indusara-deviruwan&label=Profile%20views&color=blueviolet&style=flat" alt="indusara-deviruwan" />
 </p>
 
----
 
 ## 🔭 Currently Working On
 - [Netflix-Clone using HTML, CSS & JavaScript](https://github.com/Indusara-Deviruwan/Netflix-Clone.git)
@@ -39,7 +38,7 @@
   <!-- Add more as needed -->
 </p>
 
----
+
 
 ##  Overall Stats
 
@@ -69,6 +68,7 @@
 
 
 ---
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
