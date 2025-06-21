@@ -5,6 +5,10 @@
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indusara-deviruwan&label=Profile%20views&color=blueviolet&style=flat" alt="indusara-deviruwan" />
+</p> 
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" width="400" alt="coding gif" />
 </p>
 
 
@@ -70,12 +74,9 @@
 </p>
 
 
+
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
-</p>
 
 <p align="center">
   <i>Thanks for visiting! Have a great day 🌟</i>
