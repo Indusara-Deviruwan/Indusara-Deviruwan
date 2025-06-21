@@ -7,11 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=indusara-deviruwan&label=Profile%20views&color=blueviolet&style=flat" alt="indusara-deviruwan" />
 </p>
 
-<!-- Trophy Showcase -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
 </p>
 
 ---
@@ -50,6 +47,10 @@
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding gif" />
+</p>
 
 <p align="center">
   <!-- Overall stats -->
