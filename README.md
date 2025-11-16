@@ -49,7 +49,7 @@
 
 ##  Overall Stats
 
-<p align="center">
+<p>
 
   <!-- 🌟 GitHub Stats -->
   <img align="center"
