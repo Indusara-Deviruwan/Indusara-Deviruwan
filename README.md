@@ -94,7 +94,7 @@
   </a>
 
 
-## 🔥 GitHub Streak Stats (Advanced & Colourful)
+## 🔥 GitHub Streak Stats 
 
 <p align="center">
   <img
