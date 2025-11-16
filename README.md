@@ -16,7 +16,7 @@
 
 
 ## 🔭 Currently Studing
-- Svelte Framework (https://github.com/Indusara-Deviruwan/Svelte-Framework.git)
+- Svelte Framework (https://github.com/Indusara-Deviruwan/Svelte-Framework-)
 
 ## 🌱 Learning
 **MERN Stack & Angular.js**
