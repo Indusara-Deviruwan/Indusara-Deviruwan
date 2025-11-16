@@ -94,18 +94,30 @@
   </a>
 
 
-## Streak Stats
+## 🔥 GitHub Streak Stats (Advanced & Colourful)
 
-<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indusara-deviruwan&theme=radical" alt="Streak Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=indusara-deviruwan&theme=neon-dark&hide_border=true&background=00000000&stroke=DD00FF&ring=FF00FF&fire=FF0099&currStreakLabel=00E5FF&sideLabels=00E5FF"
+    alt="Neon Streak Stats"
+    width="90%"
+  />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%" />
+</p>
+
+<!-- Animated Thanks GIF -->
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
+    alt="thanks gif" 
+    width="280"
+  />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Streak Stats" />
-</p>
-
-
-<p align="center">
-  <i>Thanks for visiting! Have a great day 🌟</i>
+  <i>Thanks for visiting! Keep shining ✨</i>
 </p>
