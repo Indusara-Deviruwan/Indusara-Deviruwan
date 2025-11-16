@@ -92,7 +92,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
   </a>
-
+</p>
 
 ## 🔥 GitHub Streak Stats 
 
