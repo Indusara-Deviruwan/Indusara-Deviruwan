@@ -15,8 +15,8 @@
 ---
 
 
-## 🔭 Currently Working On
-- [Netflix-Clone using HTML, CSS & JavaScript](https://github.com/Indusara-Deviruwan/Netflix-Clone.git)
+## 🔭 Currently Studing
+- Svelte Framework (https://github.com/Indusara-Deviruwan/Svelte-Framework.git)
 
 ## 🌱 Learning
 **MERN Stack & Angular.js**
@@ -25,8 +25,8 @@
 - [LinkedIn](https://www.linkedin.com/in/indusara-deviruwan-47508433a/)  
 - **Email**: deviruvanindusara@gmail.com
 
-## 💬 Ask Me About
-**React.js** 🎯
+<!-- ## 💬 Ask Me About
+**React.js** 🎯 -->
 
 
 <h3 align="left">💻 Languages & Tools:</h3>
@@ -50,10 +50,38 @@
 ##  Overall Stats
 
 <p align="center">
-  <!-- Overall stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=indusara-deviruwan&show_icons=true&theme=radical" alt="GitHub Stats" /> <br><br>
-  <!-- Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- 🌟 GitHub Stats -->
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=indusara-deviruwan&show_icons=true&theme=radical" 
+    alt="GitHub Stats"
+  />
+  <br><br>
+
+  <!-- 🧩 Top Languages (Compact View) -->
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&layout=compact&theme=radical" 
+    alt="Top Languages"
+  />
+  <br><br>
+
+  <!-- 🧱 All Languages Breakdown (More Accurate) -->
+  <img 
+    width="60%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&langs_count=20&theme=radical&layout=donut" 
+    alt="All Languages Used"
+  />
+  <br><br>
+
+  <!-- 📊 Contribution Graph (Optional but Recommended) -->
+  <img 
+    width="90%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=indusara-deviruwan&theme=radical" 
+    alt="Contribution Graph"
+  />
+
 </p>
 
 
