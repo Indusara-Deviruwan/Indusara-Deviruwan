@@ -52,7 +52,7 @@
 <p align="center">
 
   <!-- 🌟 GitHub Stats -->
-  <img 
+  <img align="center"
     width="48%" 
     src="https://github-readme-stats.vercel.app/api?username=indusara-deviruwan&show_icons=true&theme=radical" 
     alt="GitHub Stats"
