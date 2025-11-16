@@ -75,11 +75,11 @@
   />
   <br><br>
 
-  <!-- 📊 Contribution Graph (Optional but Recommended) -->
+ <!-- 🚀 Advanced Contribution Graph -->
   <img 
-    width="90%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=indusara-deviruwan&theme=radical" 
-    alt="Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=indusara-deviruwan&theme=react-dark&area=true&hide_border=true&radius=12&height=300&bg_color=0D1117&color=58A6FF&line=0099ff&point=FFFFFF&area_color=58A6FF"
+    alt="Advanced Contribution Graph"
+    width="95%"
   />
 
 </p>
