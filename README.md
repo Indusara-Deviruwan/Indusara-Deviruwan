@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
 </p>
-
+<br>
 
 <h2 align="center"> 🥈 Frontend Frameworks </h1>
 <br>
