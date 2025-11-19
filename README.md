@@ -15,41 +15,77 @@
 ---
 
 
-## 🔭 Currently Studing
-- Svelte Framework (https://github.com/Indusara-Deviruwan/Svelte-Framework-)
+<h2 align="center"> 🔭 Currently Studing </h2> 
+<p align="center">
+  Svelte Framework (https://github.com/Indusara-Deviruwan/Svelte-Framework-)
+</p>
+<br>
 
-## 🌱 Learning
-**MERN Stack & Angular.js**
+<h2 align="center"> 🌱 Learning </h2> 
+<p align="center">
+  MERN Stack & Angular.js
+</p>
+<br>
 
-## 📬 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/indusara-deviruwan-47508433a/)  
-- **Email**: deviruvanindusara@gmail.com
-
+<h2 align="center"> 📬 Contact Me </h2> 
+<p align="center">
+  LinkedIn : (https://www.linkedin.com/in/indusara-deviruwan-47508433a/)  
+  Email    : deviruvanindusara@gmail.com
+</p>
 <!-- ## 💬 Ask Me About
 **React.js** 🎯 -->
+<br>
 
+---
 
-<h3 align="left">💻 Languages & Tools:</h3>
+<h2 align="center"> 🥇 Languages </h2>
+<br> 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React.js" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" title="Bootstrap" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python" />
-  <!-- Add more as needed -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
 </p>
 
 
+<h2 align="center"> 🥈 Frontend Frameworks </h1>
+<br>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
+  <!-- Add more as needed -->
+</p>
+<br>
+
+<h2 align="center"> 🥉 Backend Frameworks </h1> 
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" />
+  
+  <!-- Add more as needed -->
+</p>
+<br>
+
+---
 
 ##  Overall Stats
 
-<p>
+<p align="center">
 
   <!-- 🌟 GitHub Stats -->
   <img align="center"
@@ -89,42 +125,10 @@
 
 <!-- Trophy Showcase -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
-  </a>
-</p>## 🏆 GitHub Trophy Showcase (Advanced)
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan
-      &theme=tokyonight
-      &no-bg=true
-      &no-frame=true
-      &column=7
-      &margin-w=15
-      &margin-h=15
-      &rank=-C,-B,-?"
-      alt="Advanced GitHub Trophies"
-      width="95%"
-    />
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark">
+    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=radical" />
   </a>
 </p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="90%" />
-</p>
-
-<!-- Floating Animation Image -->
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" 
-    width="180"
-    alt="animated trophy"
-  />
-</p>
-
 
 ## 🔥 GitHub Streak Stats 
 
