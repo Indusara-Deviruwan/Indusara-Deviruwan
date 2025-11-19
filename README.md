@@ -92,7 +92,39 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=onedark&no-bg=true&column=7" alt="Trophies" />
   </a>
+</p>## 🏆 GitHub Trophy Showcase (Advanced)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan
+      &theme=tokyonight
+      &no-bg=true
+      &no-frame=true
+      &column=7
+      &margin-w=15
+      &margin-h=15
+      &rank=-C,-B,-?"
+      alt="Advanced GitHub Trophies"
+      width="95%"
+    />
+  </a>
 </p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="90%" />
+</p>
+
+<!-- Floating Animation Image -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" 
+    width="180"
+    alt="animated trophy"
+  />
+</p>
+
 
 ## 🔥 GitHub Streak Stats 
 
