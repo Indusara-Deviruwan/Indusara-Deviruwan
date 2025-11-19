@@ -19,13 +19,13 @@
 <p align="center">
   Svelte Framework (https://github.com/Indusara-Deviruwan/Svelte-Framework-)
 </p>
-<br>
+
 
 <h2 align="center"> 🌱 Learning </h2> 
 <p align="center">
   MERN Stack & Angular.js
 </p>
-<br>
+
 
 <h2 align="center"> 📬 Contact Me </h2> 
 <p align="center">
