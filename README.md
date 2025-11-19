@@ -59,13 +59,13 @@
   />
   <br><br>
 
-  <!-- 🧩 Top Languages (Compact View) -->
+  <!-- 🧩 Top Languages (Compact View) 
   <img 
     width="48%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=indusara-deviruwan&layout=compact&theme=radical" 
     alt="Top Languages"
   />
-  <br><br>
+  <br><br>  -->
 
   <!-- 🧱 All Languages Breakdown (More Accurate) -->
   <img 
