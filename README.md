@@ -126,7 +126,7 @@
 <!-- Trophy Showcase -->
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark">
-    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=radical" />
+    <img src="https://github-profile-trophy.vercel.app/?username=indusara-deviruwan&theme=dracula" />
   </a>
 </p>
 
